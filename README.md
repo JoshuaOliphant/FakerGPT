@@ -1,2 +1,3 @@
 # FakerGPT
-I library for generating fake test data with LLMs
+
+A tool for generating fake test data with LLMs.
